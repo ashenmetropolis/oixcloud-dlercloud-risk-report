@@ -1,5 +1,40 @@
 # oixCloud / 原 DlerCloud 风险记录
 
+## 公开风险速览
+
+主页面：
+https://ashenmetropolis.github.io/oixcloud-dlercloud-risk-report/
+
+本仓库用于整理 oixCloud / 原 DlerCloud 相关公开资料、公告、脱敏群聊记录、问题反馈窗口和用户风险提示。
+
+核心风险包括：
+
+* DlerCloud → oixCloud 改名/承接特征；
+* 官方端绑定与封端争议；
+* Unauthorized / 未授权；
+* 订阅失败；
+* 节点全红；
+* Timeout；
+* Shadowrocket / Quantumult X / Surge / OpenClash / Clash Verge / FlClash 等多客户端异常；
+* 流量异常暴涨；
+* 高价长期套餐权益争议；
+* 工单 / 客服无响应。
+
+## 讨论与补充入口
+
+补充证据区：
+https://github.com/ashenmetropolis/oixcloud-dlercloud-risk-report/discussions
+
+用户问题反馈区：
+https://github.com/ashenmetropolis/oixcloud-dlercloud-risk-report/discussions
+
+纠错与反方说明区：
+https://github.com/ashenmetropolis/oixcloud-dlercloud-risk-report/discussions
+
+请勿发布个人隐私、账号信息、订阅链接、节点地址或未打码截图。本仓库只做公开资料整理、风险提示、证据补充与纠错，不组织维权群，不承担客服或售后职能。
+
+# oixCloud / 原 DlerCloud 风险记录
+
 **oixCloud / 原 DlerCloud 风险记录：接盘承接、封端争议、Unauthorized、订阅失败、节点全红、Timeout、流量异常、高价套餐、钻石套餐、Premium 权益争议。**
 
 ## 搜索可见入口
