@@ -69,7 +69,7 @@ GitHub Pages 首页入口：
 
 ---
 
-# oixCloud / DlerCloud 完整避雷证据包 v3
+# oixCloud / DlerCloud 完整避雷证据包 
 
 本包整合：
 
