@@ -22,16 +22,16 @@ https://ashenmetropolis.github.io/oixcloud-dlercloud-risk-report/
 
 ## 讨论与补充入口
 
-补充证据区：
-https://github.com/ashenmetropolis/oixcloud-dlercloud-risk-report/discussions
+公开入口与补充证据索引： https://github.com/ashenmetropolis/oixcloud-dlercloud-risk-report/discussions
 
-用户问题反馈区：
-https://github.com/ashenmetropolis/oixcloud-dlercloud-risk-report/discussions
+补充证据区： https://github.com/ashenmetropolis/oixcloud-dlercloud-risk-report/discussions
 
-纠错与反方说明区：
-https://github.com/ashenmetropolis/oixcloud-dlercloud-risk-report/discussions
+用户问题反馈区： https://github.com/ashenmetropolis/oixcloud-dlercloud-risk-report/discussions
 
-请勿发布个人隐私、账号信息、订阅链接、节点地址或未打码截图。本仓库只做公开资料整理、风险提示、证据补充与纠错，不组织维权群，不承担客服或售后职能。
+纠错与反方说明区： https://github.com/ashenmetropolis/oixcloud-dlercloud-risk-report/discussions
+
+请勿发布个人隐私、账号信息、订阅链接、节点地址或未打码截图。本仓库只做公开资料整理、风险提示、证据补充与纠错，不组织维权，不承担客服或售后义务。
+
 
 # oixCloud / 原 DlerCloud 风险记录
 
